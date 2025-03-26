@@ -10,7 +10,7 @@ The following are key links to help direct you to get started.
 * [Catena Tools Core](https://github.com/catenatools/catena-tools-core) - The primary toolkit provided by Catena, where core game services are provided.
 * [Infrastructure Boilerplate](https://github.com/catenatools/infrastructure) - Code templates to stand up Catena and Game Servers on a variety of cloud platforms. 
 * [Launcher](https://github.com/catenatools/launcher) - A game launcher for distributing your game for internal and external playtests.
-*  [Catena Lyra Demo](https://github.com/catenatools/catena-lyra-demo) - An example game using Catena Tools and Unreal Engine.
+* [Catena Lyra Demo](https://github.com/catenatools/catena-lyra-demo) - An example game using Catena Tools [libcatena](https://github.com/catenatools/libcatena) and Unreal Engine.
 
 ## Tutorials
 
